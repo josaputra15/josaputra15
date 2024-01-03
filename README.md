@@ -10,6 +10,8 @@
 
 📫 How to reach me: 
 
-josephrama1510@gmail.com
+[Email](josephrama1510@gmail.com)
 
-https://www.linkedin.com/in/joseph-saputra-46196a2a6/
+[Linkedin](https://www.linkedin.com/in/joseph-saputra-46196a2a6/)
+
+[My Personal Website](josephsaputra.com)
