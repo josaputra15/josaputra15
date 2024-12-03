@@ -10,6 +10,6 @@
 
 [Email](josephrama1510@gmail.com)
 
-[Linkedin](https://www.linkedin.com/in/joseph-saputra-46196a2a6/)
+[Linkedin](https://www.linkedin.com/in/joseph-saputra/)
 
-[My Personal Website](josephsaputra.com)
+
