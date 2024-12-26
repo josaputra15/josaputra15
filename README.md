@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 🇮🇩 I'm a CS student at Macalester College, originally from Indonesia.
 
@@ -28,7 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josaputra15&layout=compact)
 
 
-📫 How to reach me: 
+## 📫 How to reach me: 
 
 [Email](josephrama1510@gmail.com)
 
