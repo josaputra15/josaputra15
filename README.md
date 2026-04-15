@@ -34,6 +34,6 @@
 
 [Linkedin](https://www.linkedin.com/in/joseph-saputra/)
 
-[Personal Website](https://www.josephsaputra.com/)
+[Personal Website](https://www.josephsaputra.space/)
 
 
