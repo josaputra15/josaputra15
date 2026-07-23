@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🇮🇩 I'm a CS student at Macalester College, originally from Indonesia.
+🇮🇩 I'm a CS student at Macalester College.
 
 💡 My passions lie in the realms of full-stack web development, and the field of machine learning.
 
