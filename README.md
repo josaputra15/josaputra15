@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-🇮🇩 I'm a CS student at Macalester College.
+I'm a CS student at Macalester College.
 
-💡 My passions lie in the realms of full-stack web development, and the field of machine learning.
+My passions lie in the realms of full-stack web development, and the field of machine learning.
 
 
-## 🚀 Languages & Tools I Use
+## Languages & Tools I Use
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,11 +24,11 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 
-## 📊 My Language Stats
+## My Language Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josaputra15&layout=compact)
 
 
-## 📫 How to reach me: 
+## How to reach me: 
 
 [Email](josephrama1510@gmail.com)
 
